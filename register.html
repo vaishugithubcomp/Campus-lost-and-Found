@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Register - FindIt@Campus</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+  <style>
+  body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Inter', sans-serif;
+  background: url("college.jpg.png") left center  no-repeat;
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+
+body::before {
+  content: "";
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  filter: blur(4px);
+  transform: scale(1.05);
+  z-index: -1;
+  background-position: center right; /* ensure blur uses same position */
+}
+
+
+
+
+   
+    .auth-box {
+  background-color: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.15);
+  max-width: 300px;
+  width: 100%;
+  z-index: 1;
+}
+
+
+    .auth-box h2 {
+      text-align: center;
+      margin-bottom: 1.5rem;
+      color: #1e3a8a;
+    }
+
+    .auth-box input {
+      width: 90%;
+      padding: 0.75rem;
+      margin-bottom: 1rem;
+      border: 1px solid #cbd5e1;
+      border-radius: 6px;
+      font-size: 1rem;
+    }
+
+    .auth-box button {
+      width: 100%;
+      padding: 0.75rem;
+      background: #1e3a8a;
+      color: white;
+      font-weight: bold;
+      border: none;
+      border-radius: 6px;
+      cursor: pointer;
+      transition: background 0.2s ease;
+    }
+
+    .auth-box button:hover {
+      background: #3b82f6;
+    }
+
+    .auth-box .extra-text {
+      text-align: center;
+      margin-top: 1rem;
+      font-size: 0.95rem;
+    }
+
+    .auth-box .extra-text a {
+      color: #1e3a8a;
+      font-weight: 500;
+      text-decoration: none;
+    }
+
+    .auth-box .extra-text a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <div class="auth-box">
+    <h2>Create Your Account</h2>
+    <form action="register.php" method="POST">
+      <input type="text" name="username" placeholder="Username" required />
+      <input type="password" name="password" placeholder="Password" required />
+      <button type="submit">Register</button>
+    </form>
+    <div class="extra-text">
+      Already have an account? <a href="login.html">Login here</a>
+    </div>
+  </div>
+</body>
+</html>
