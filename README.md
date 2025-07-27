@@ -71,7 +71,7 @@ By digitizing the lost & found system, it enhances campus safety, organization, 
 > Screenshots from working demo of the portal.
 
 ### 🏠 Home Page  
-![Home]("<img width="1911" height="921" alt="Home page" src="https://github.com/user-attachments/assets/58b483b7-e666-4a9e-a46d-840559b16ddf" />)
+"<img width="1911" height="921" alt="Home page" src="https://github.com/user-attachments/assets/58b483b7-e666-4a9e-a46d-840559b16ddf" />
 
 ### 🔍 Browse Items  
 ![Found item](<img width="1919" height="911" alt="Screenshot 2025-07-27 223852" src="https://github.com/user-attachments/assets/5e3ec3c4-6828-497a-bde0-6e095094f9a3" />)
