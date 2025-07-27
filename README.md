@@ -39,7 +39,6 @@ By digitizing the lost & found system, it enhances campus safety, organization, 
 |--------------------|-------------|
 | 📝 Report Items     | Users can report **Lost** or **Found** items |
 | 🧾 Item Description | Upload item title, category, date, and description |
-| 📸 Image Upload     | Upload actual image of lost/found item |
 | 🗂️ Category Filter   | Filter items by type: Electronics, Books, Wallets, etc. |
 | 🔍 Item Browsing    | Publicly viewable item listing with status |
 | 🔐 User Login       | New user registration and secure login |
