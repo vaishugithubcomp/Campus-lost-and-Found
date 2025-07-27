@@ -71,11 +71,12 @@ By digitizing the lost & found system, it enhances campus safety, organization, 
 > Screenshots from working demo of the portal.
 
 ### 🏠 Home Page  
-"<img width="1911" height="921" alt="Home page" src="https://github.com/user-attachments/assets/58b483b7-e666-4a9e-a46d-840559b16ddf" />
+<img width="1911" height="921" alt="Home page" src="https://github.com/user-attachments/assets/58b483b7-e666-4a9e-a46d-840559b16ddf" />
 
 ### 🔍 Browse Items  
-![Found item](<img width="1919" height="911" alt="Screenshot 2025-07-27 223852" src="https://github.com/user-attachments/assets/5e3ec3c4-6828-497a-bde0-6e095094f9a3" />)
-![Found item](<img width="1917" height="904" alt="Screenshot 2025-07-27 223909" src="https://github.com/user-attachments/assets/f942e23f-f7b4-41d2-94b9-a07722ee52ba" />)
+Found item
+<img width="1919" height="911" alt="Screenshot 2025-07-27 223852" src="https://github.com/user-attachments/assets/5e3ec3c4-6828-497a-bde0-6e095094f9a3" />
+<img width="1917" height="904" alt="Screenshot 2025-07-27 223909" src="https://github.com/user-attachments/assets/f942e23f-f7b4-41d2-94b9-a07722ee52ba" />
 
 ### 📝 Report Lost Item  
 ![Report Lost](<img width="1879" height="913" alt="Screenshot 2025-07-27 223646" src="https://github.com/user-attachments/assets/ca685ead-746e-4014-a7b6-ce92d0a3d826" />)
