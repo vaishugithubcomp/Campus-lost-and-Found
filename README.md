@@ -74,24 +74,26 @@ By digitizing the lost & found system, it enhances campus safety, organization, 
 <img width="1911" height="921" alt="Home page" src="https://github.com/user-attachments/assets/58b483b7-e666-4a9e-a46d-840559b16ddf" />
 
 ### 🔍 Browse Items  
-Found item
+Lost Item
 <img width="1919" height="911" alt="Screenshot 2025-07-27 223852" src="https://github.com/user-attachments/assets/5e3ec3c4-6828-497a-bde0-6e095094f9a3" />
+
+Found item
 <img width="1917" height="904" alt="Screenshot 2025-07-27 223909" src="https://github.com/user-attachments/assets/f942e23f-f7b4-41d2-94b9-a07722ee52ba" />
 
 ### 📝 Report Lost Item  
-![Report Lost](<img width="1879" height="913" alt="Screenshot 2025-07-27 223646" src="https://github.com/user-attachments/assets/ca685ead-746e-4014-a7b6-ce92d0a3d826" />)
+<img width="1879" height="913" alt="Screenshot 2025-07-27 223646" src="https://github.com/user-attachments/assets/ca685ead-746e-4014-a7b6-ce92d0a3d826" />
 
 ### 🎒 Report Found Item  
-![Report Found](<img width="1879" height="913" alt="Screenshot 2025-07-27 223646" src="https://github.com/user-attachments/assets/1f289c54-c71e-49b5-9deb-735aba1b3651" />)
+<img width="1879" height="913" alt="Screenshot 2025-07-27 223646" src="https://github.com/user-attachments/assets/1f289c54-c71e-49b5-9deb-735aba1b3651" />
 
-### 🔐 User Login  
-![Login](<img width="1917" height="909" alt="Screenshot 2025-07-27 223359" src="https://github.com/user-attachments/assets/30456c67-5429-47d4-b773-8d337eb6e288" />)
+### 🔐 User Login 
+<img width="1917" height="909" alt="Screenshot 2025-07-27 223359" src="https://github.com/user-attachments/assets/30456c67-5429-47d4-b773-8d337eb6e288" />
 
 ### 🆕 Register User  
-![Signup](<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/db9af6dd-6b19-48cb-ad2b-317f6aa674b0" />)
+<img width="1917" height="910" alt="image" src="https://github.com/user-attachments/assets/db9af6dd-6b19-48cb-ad2b-317f6aa674b0" />
 
 ### 🧑‍💼 Admin Panel  
-![Admin Panel](<img width="1898" height="908" alt="Screenshot 2025-07-27 224235" src="https://github.com/user-attachments/assets/19da99d4-af49-4b71-bb2f-9b93f8e0fce8" />)
+<img width="1898" height="908" alt="Screenshot 2025-07-27 224235" src="https://github.com/user-attachments/assets/19da99d4-af49-4b71-bb2f-9b93f8e0fce8" />
 
 ---
 
